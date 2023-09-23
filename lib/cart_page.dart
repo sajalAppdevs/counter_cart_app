@@ -19,7 +19,7 @@ class _CartPageState extends State<CartPage> {
       body: Center(
         child: Text(
           "Total Product Purchased: ${widget.totalPurchasedCount}",
-          style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+          style: TextStyle(fontSize: 21, fontWeight: FontWeight.bold),
         ),
       ),
     );
